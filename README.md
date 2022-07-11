@@ -24,4 +24,4 @@ I plan for the functionality to remain this and only this, otherwise one might a
 
 ----
 
-**Note:** I am not a programming and I did this out of a desire for convinience. Pull Requests are encouraged if you feel strongly about improving code quality or functionality.
+**Note:** I am not a programmer and I did this out of a desire for convinience. Pull Requests are encouraged if you feel strongly about improving code quality or functionality.
